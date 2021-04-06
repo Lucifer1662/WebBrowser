@@ -1,0 +1,13 @@
+﻿  Text.cpp
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Text.cpp(81,24): warning C4244: 'initializing': conversion from '_First' to 'Percetage', possible loss of data
+          with
+          [
+              _First=Pixels
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Text.cpp(85,24): warning C4244: '=': conversion from 'Percetage' to 'int', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Text.cpp(89): warning C4715: 'Text::toPixels': not all control paths return a value
+  All 405 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  WebBrowser.vcxproj -> C:\Users\lhawk\OneDrive\Projects\WebBrowser\x64\Release\WebBrowser.exe

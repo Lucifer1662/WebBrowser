@@ -1,0 +1,248 @@
+﻿  ApplyStyle.cpp
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(20,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(31,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(49,16): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(59,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(67,63): warning C4244: '=': conversion from 'float' to 'Pixels', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(73,29): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(73,26): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(78,29): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(78,26): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLImageRender.h(69,25): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLImageRender.h(69,22): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLImageRender.h(74,25): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLImageRender.h(74,22): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+  HTMLElement.cpp
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(20,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(31,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+  HTMLImageRender.cpp
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(20,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(31,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+  HTMLParser.cpp
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(20,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(31,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\HTMLParser.cpp(34,8): warning C4244: 'initializing': conversion from 'std::_String_view_iterator<_Traits>::difference_type' to 'int', possible loss of data
+          with
+          [
+              _Traits=std::char_traits<char>
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\HTMLParser.cpp(46,8): warning C4244: 'initializing': conversion from 'std::_String_view_iterator<_Traits>::difference_type' to 'int', possible loss of data
+          with
+          [
+              _Traits=std::char_traits<char>
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\HTMLParser.cpp(208,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\HTMLParser.cpp(368,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\optional(66,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\HTMLParser.cpp(458): message : see reference to function template instantiation 'std::_Optional_destruct_base<_Ty,true>::_Optional_destruct_base<unsigned __int64>(std::in_place_t,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\HTMLParser.cpp(458): message : see reference to function template instantiation 'std::_Optional_destruct_base<_Ty,true>::_Optional_destruct_base<unsigned __int64>(std::in_place_t,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\optional(183): message : see reference to function template instantiation 'std::_Optional_construct_base<_Ty>::_Optional_construct_base<unsigned __int64>(std::in_place_t,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\optional(183): message : see reference to function template instantiation 'std::_Optional_construct_base<_Ty>::_Optional_construct_base<unsigned __int64>(std::in_place_t,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\HTMLParser.cpp(32): message : see reference to function template instantiation 'std::optional<int>::optional<std::basic_string_view<char,std::char_traits<char>>::size_type,0>(_Ty2 &&)' being compiled
+          with
+          [
+              _Ty2=std::basic_string_view<char,std::char_traits<char>>::size_type
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\HTMLParser.cpp(32): message : see reference to function template instantiation 'std::optional<int>::optional<std::basic_string_view<char,std::char_traits<char>>::size_type,0>(_Ty2 &&)' being compiled
+          with
+          [
+              _Ty2=std::basic_string_view<char,std::char_traits<char>>::size_type
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\optional(66,17): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=std::_String_view_iterator<std::char_traits<char>>::difference_type
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\HTMLParser.cpp(458): message : see reference to function template instantiation 'std::_Optional_destruct_base<_Ty,true>::_Optional_destruct_base<__int64>(std::in_place_t,__int64 &&)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\HTMLParser.cpp(458): message : see reference to function template instantiation 'std::_Optional_destruct_base<_Ty,true>::_Optional_destruct_base<__int64>(std::in_place_t,__int64 &&)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\optional(183): message : see reference to function template instantiation 'std::_Optional_construct_base<_Ty>::_Optional_construct_base<__int64>(std::in_place_t,__int64 &&)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\optional(183): message : see reference to function template instantiation 'std::_Optional_construct_base<_Ty>::_Optional_construct_base<__int64>(std::in_place_t,__int64 &&)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\HTMLParser.cpp(72): message : see reference to function template instantiation 'std::optional<int>::optional<std::_String_view_iterator<_Traits>::difference_type,0>(_Ty2 &&)' being compiled
+          with
+          [
+              _Traits=std::char_traits<char>,
+              _Ty2=std::_String_view_iterator<std::char_traits<char>>::difference_type
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\HTMLParser.cpp(72): message : see reference to function template instantiation 'std::optional<int>::optional<std::_String_view_iterator<_Traits>::difference_type,0>(_Ty2 &&)' being compiled
+          with
+          [
+              _Traits=std::char_traits<char>,
+              _Ty2=std::_String_view_iterator<std::char_traits<char>>::difference_type
+          ]
+  HTMLTextRenderElement.cpp
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(20,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(31,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+  HTMLToRenderGraph.cpp
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(20,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(31,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(49,16): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(59,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(67,63): warning C4244: '=': conversion from 'float' to 'Pixels', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(73,29): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(73,26): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(78,29): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(78,26): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLImageRender.h(69,25): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLImageRender.h(69,22): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLImageRender.h(74,25): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLImageRender.h(74,22): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+  HTMLRenderElement.cpp
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(20,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(31,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+  SFMLHTMLImageRender.cpp
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(20,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(31,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLImageRender.h(69,25): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLImageRender.h(69,22): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLImageRender.h(74,25): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLImageRender.h(74,22): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+  SFMLHTMLTextRender.cpp
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(20,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(31,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(49,16): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(59,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(67,63): warning C4244: '=': conversion from 'float' to 'Pixels', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(73,29): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(73,26): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(78,29): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(78,26): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+  Source.cpp
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(20,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(31,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(49,16): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(59,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(67,63): warning C4244: '=': conversion from 'float' to 'Pixels', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(73,29): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(73,26): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(78,29): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLTextRender.h(78,26): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLImageRender.h(69,25): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLImageRender.h(69,22): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLImageRender.h(74,25): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\SFMLHTMLImageRender.h(74,22): warning C4244: 'argument': conversion from 'Pixels' to 'float', possible loss of data
+  StyleSheet.cpp
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(20,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+C:\Users\lhawk\OneDrive\Projects\WebBrowser\WebBrowser\Dimension.h(31,47): warning C4244: '=': conversion from '_Ty' to 'Pixels', possible loss of data
+          with
+          [
+              _Ty=Percetage
+          ]
+  Generating Code...
+LINK : warning LNK4217: symbol '??0Transform@sf@@QEAA@XZ (public: __cdecl sf::Transform::Transform(void))' defined in 'sfml-graphics-s-d.lib(Transform.cpp.obj)' is imported by 'Page.obj' in function '"public: __cdecl Entity::Entity(void)" (??0Entity@@QEAA@XZ)'
+  WebBrowser.vcxproj -> C:\Users\lhawk\OneDrive\Projects\WebBrowser\x64\Debug\WebBrowser.exe
